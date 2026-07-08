@@ -1,0 +1,21 @@
+packages/rspeedy/plugin-qrcode/test/shortcuts.test.ts
+  s_62b598644bdb32::t_06d6bddbc9be04 169-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "411d66b108fc362bd899f829681b8c9ed221bd9c",
+  "prompts": {},
+  "sessions": {
+    "s_62b598644bdb32": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_62b598644bdb32",
+        "model": "unknown"
+      },
+      "human_author": "yuxingliang.clyde <yuxingliang.clyde@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
