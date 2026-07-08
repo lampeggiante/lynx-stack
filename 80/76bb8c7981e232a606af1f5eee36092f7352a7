@@ -1,0 +1,25 @@
+.changeset/qrcode-showQRCode.md
+  s_ba4769e9bc228f::t_dafd2f564d92a9 1-7
+packages/rspeedy/plugin-qrcode/src/shortcuts.ts
+  s_ba4769e9bc228f::t_65064da6fc1969 19-29,51,63-65,116,189-191
+packages/rspeedy/plugin-qrcode/test/shortcuts.test.ts
+  s_ba4769e9bc228f::t_d8df255b82c410 133-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8076bb8c7981e232a606af1f5eee36092f7352a7",
+  "prompts": {},
+  "sessions": {
+    "s_ba4769e9bc228f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_ba4769e9bc228f",
+        "model": "unknown"
+      },
+      "human_author": "yuxingliang.clyde <yuxingliang.clyde@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
